@@ -1,4 +1,4 @@
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Fun Project', 'Coding', 25.00, '1-2-2018', '12-3-2018'), 
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Fun Project', 'Coding', 25.00, '1-2-2018', '12-3-2018'),
 ('Fun Project', 'Coding', 25.00, '1-2-2018', '12-3-2018'), ('Fun Project', 'Coding', 25.00, '1-2-2018', '12-3-2018'), ('Fun Project', 'Coding', 25.00, '1-2-2018', '12-3-2018'), ('Fun Project', 'Coding', 25.00, '1-2-2018', '12-3-2018'), ('Fun Project', 'Coding', 25.00, '1-2-2018', '12-3-2018'), ('Fun Project', 'Coding', 25.00, '1-2-2018', '12-3-2018'), ('Fun Project', 'Coding', 25.00, '1-2-2018', '12-3-2018'), ('Fun Project', 'Coding', 25.00, '1-2-2018', '12-3-2018'), ('Fun Project', 'Coding', 25.00, '1-2-2018', '12-3-2018')
 
 INSERT INTO users (name, age) VALUES ('Bob', 32), ('Bob', 32), ('Bob', 32), ('Bob', 32), ('Bob', 32), ('Bob', 32), ('Bob', 32), ('Bob', 32), ('Bob', 32), ('Bob', 32), ('Bob', 32), ('Bob', 32), ('Bob', 32), ('Bob', 32), ('Bob', 32), ('Bob', 32), ('Bob', 32), ('Bob', 32), ('Bob', 32), ('Bob', 32)
